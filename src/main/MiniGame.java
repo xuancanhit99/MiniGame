@@ -35,6 +35,7 @@ public class MiniGame extends JFrame {
     // Game Rearrange The Pieces: RTP - Игра "переставь фигуры"
     // Game 15 puzzle: 15P - Игра "Пятнашки"
 
+
     private void initComponents() {
 
         jButton1 = new JButton();
